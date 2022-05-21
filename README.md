@@ -7,7 +7,7 @@ Controlled mobility of a UAV (Unmanned Aerial Vehicle): Actively follow the posi
 - Evaluating the received signal strength indicator (RSSI)
 - Direction of Arrival is unknown → spatial exploration for localization
 
-Presented by the CENN Team:
+Presented by the Team 1 (CENN Team):
 - Chelsea Sabo
 - Erna Megawati Manna
 - Nahikari Rabanos Beldarrain
